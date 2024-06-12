@@ -11,7 +11,7 @@
 * ...
 
 ### ScreenShot
-!(https://github.com/dangto439/SWT_GiaoLANG/blob/main/sceenShot/image.png)[]
+![Source code and Unit Test](https://github.com/dangto439/SWT_GiaoLANG/blob/main/sceenShot/image.png)
 
 #### Connect me via: group3@gmail.com
 
