@@ -1,3 +1,5 @@
+[![Math Utility Project (CI applied)](https://github.com/dangto439/SWT_GiaoLANG/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/dangto439/SWT_GiaoLANG/actions/workflows/dotnet-desktop.yml)
+
 # Welcome to  mathUtil Repository ver. 12.06.2024
 
 ## You will find in this repo the following stuff
