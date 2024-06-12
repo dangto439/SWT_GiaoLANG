@@ -1,0 +1,14 @@
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.exe
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.deps.json
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.runtimeconfig.json
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.dll
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.pdb
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.AssemblyInfoInputs.cache
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.AssemblyInfo.cs
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.csproj.CoreCompileInputs.cache
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.dll
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\refint\mathUtil.dll
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.pdb
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.genruntimeconfig.cache
+D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\ref\mathUtil.dll
