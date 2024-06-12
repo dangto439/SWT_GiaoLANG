@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyDev\\SEM_5\\SWT\\SWTTesing\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\DANG TO\\Documents\\Zalo Received Files\\SWTTesing\\SWTTesing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCCF60E-95E5-4269-B353-96E3E55EF8FC}|test\\test.csproj|c:\\users\\dang to\\documents\\zalo received files\\swttesing\\swttesing\\test\\mathutilityddtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCCF60E-95E5-4269-B353-96E3E55EF8FC}|test\\test.csproj|solutionrelative:test\\mathutilityddtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCCF60E-95E5-4269-B353-96E3E55EF8FC}|test\\test.csproj|c:\\users\\dang to\\documents\\zalo received files\\swttesing\\swttesing\\test\\mathutilitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCCF60E-95E5-4269-B353-96E3E55EF8FC}|test\\test.csproj|solutionrelative:test\\mathutilitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +39,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathUtilityDDTest.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\Zalo Received Files\\SWTTesing\\SWTTesing\\test\\MathUtilityDDTest.cs",
+              "RelativeDocumentMoniker": "test\\MathUtilityDDTest.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\Zalo Received Files\\SWTTesing\\SWTTesing\\test\\MathUtilityDDTest.cs",
+              "RelativeToolTip": "test\\MathUtilityDDTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:34:39.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathUtilityTest.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\Zalo Received Files\\SWTTesing\\SWTTesing\\test\\MathUtilityTest.cs",
+              "RelativeDocumentMoniker": "test\\MathUtilityTest.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\Zalo Received Files\\SWTTesing\\SWTTesing\\test\\MathUtilityTest.cs",
+              "RelativeToolTip": "test\\MathUtilityTest.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwD0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:31:10.529Z",
+              "EditorCaption": ""
             }
           ]
         }
