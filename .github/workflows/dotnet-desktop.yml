@@ -1,5 +1,3 @@
-# This workflow will build a C# project with .NET, and cache/restore any dependencies to improve the workflow execution time
-
 name: Math Utility Project (CI applied)
 
 on:
@@ -23,6 +21,18 @@ jobs:
 
     - name: Build with .NET
       run: dotnet build --configuration Release
+
+    - name: Run unit tests
+      run: dotnet test --configuration Release --logger trx
+
+    - name: Check test results
+      run: |
+        if grep -q "<FailedTests>0</FailedTests>" test-results.trx; then
+          echo "All tests passed"
+        else
+          echo "Some tests failed"
+          exit 1
+        fi
 
     - name: Publish artifact
       run: dotnet publish --configuration Release --output ./publish
