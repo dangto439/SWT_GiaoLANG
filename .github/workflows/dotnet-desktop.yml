@@ -2,43 +2,42 @@ name: Math Utility Project (CI applied)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v1
-      with:
-        dotnet-version: '8.0.x'
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: "8.0.x"
 
-    - name: Build with .NET
-      run: dotnet build --configuration Release
+      - name: Build with .NET
+        run: dotnet build --configuration Release
 
-    - name: Run unit tests
-      run: dotnet test --configuration Release --logger trx
+      - name: Run unit tests
+        run: dotnet test --configuration Release --logger trx
 
-    - name: Check test results
-      run: |
-        if grep -q "<FailedTests>0</FailedTests>" test-results.trx; then
-          echo "All tests passed"
-        else
-          echo "Some tests failed"
-          exit 1
-        fi
+      - name: Check test results
+        run: |
+          if grep -q "<FailedTests>0</FailedTests>" test-results.trx; then
+            echo "All tests passed"
+          else
+            echo "Some tests failed"
+            exit 1
+          fi
 
-    - name: Publish artifact
-      run: dotnet publish --configuration Release --output ./publish
+      - name: Publish artifact
+        run: dotnet publish --configuration Release --output ./publish
 
-    - name: Create artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: MathUtility
-        path: ./publish
+      - name: Create artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: MathUtility
+          path: ./publish
