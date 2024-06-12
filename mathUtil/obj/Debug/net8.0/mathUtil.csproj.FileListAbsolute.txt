@@ -12,3 +12,18 @@ D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\refint\mathUtil.dll
 D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.pdb
 D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.genruntimeconfig.cache
 D:\MyDev\SEM_5\SWT\SWTTesing\mathUtil\obj\Debug\net8.0\ref\mathUtil.dll
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.exe
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.deps.json
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.runtimeconfig.json
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.dll
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\bin\Debug\net8.0\mathUtil.pdb
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.AssemblyInfoInputs.cache
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.AssemblyInfo.cs
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.csproj.CoreCompileInputs.cache
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.sourcelink.json
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.dll
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\refint\mathUtil.dll
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.pdb
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\mathUtil.genruntimeconfig.cache
+C:\Users\DANG TO\Documents\Zalo Received Files\SWTTesing\SWTTesing\mathUtil\obj\Debug\net8.0\ref\mathUtil.dll
