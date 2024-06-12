@@ -10,10 +10,10 @@ namespace mathUtil
     {
         public static bool IsPrime(int number)
         {
-            if (number == 1)
+            if (number <= 1)
                 return false;
 
-            if (number != 2)
+            if (number == 2)
                 return true;
 
             if (number % 2 == 0)
